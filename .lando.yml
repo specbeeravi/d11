@@ -1,0 +1,5 @@
+name: d11
+recipe: drupal11
+config:
+  webroot: web
+  php: '8.3'
