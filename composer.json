@@ -20,7 +20,10 @@
         "drupal/core-composer-scaffold": "^11.1",
         "drupal/core-project-message": "^11.1",
         "drupal/core-recommended": "^11.1",
-        "drush/drush": "^13.3"
+        "drupal/mercury": "^0.9.8",
+        "drush/drush": "^13.3",
+        "twig/extra-bundle": "^3.22",
+        "twig/html-extra": "^3.22"
     },
     "conflict": {
         "drupal/drupal": "*"
